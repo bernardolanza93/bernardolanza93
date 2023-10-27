@@ -10,8 +10,6 @@
 
 🌱 I’m currently focusing on smart agriculture and precise farming.
 
-💻 Engaged in project-driven learning, actively exploring a wide range of AI and computer vision applications.
-
 🌍 Passionate about computer vision, deep learning, and neural networks, with a dedicated focus on creating image-driven solutions for challenging real-world issues.
 
   

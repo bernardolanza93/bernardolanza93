@@ -32,5 +32,8 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolanza93&layout=compact&theme=nightowl" alt=bernardolanza93 />
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardolanza93)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </div>
 
